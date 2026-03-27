@@ -5,7 +5,7 @@
 本项目由 Trae 自动生成，是一个美观、高效的待办事项管理应用，帮助你有条理地规划每一天。
 
 ### 应用界面
-<img src="../images/example.jpg" width="256" alt="Flowy Todo 应用界面">
+<img src="/images/example.jpg" width="256" alt="Flowy Todo 应用界面">
 
 ## 已实现功能
 
